@@ -1,0 +1,10 @@
+apiVersion: app.example.com/v1
+kind: SimpleApp
+metadata:
+  name: nginx-app
+  namespace: default
+spec:
+  replicas: 2
+  image: nginx:1.25-alpine
+  port: 80
+  serviceType: NodePort
