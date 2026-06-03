@@ -1,6 +1,0 @@
-interface:
-  display_name: "Go Code Constraints"
-  short_description: "Go service scaffolding and refactor guardrails"
-  default_prompt: "Use $go-code-constraints to scaffold or refactor this Go service according to our internal architecture rules."
-policy:
-  allow_implicit_invocation: false

@@ -1,1 +1,15 @@
 【请复制使用】新员工试用期答辩模板_2025_中文版.pptx
+*.tar
+*.zip
+*.rar
+*.gz
+*.7z
+*.log
+.DS_Store
+entrytask.pdf
+AI_System_Prompt_完整约束模板.md
+AI_System_Prompt_完整约束模板_go版.md
+AI代码约束体系_新人培训教案.md
+AI代码约束体系_新人培训教案_Go版本.md
+/go-code-constraints/
+/.pptx-edit/
